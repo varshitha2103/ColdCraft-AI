@@ -56,6 +56,8 @@ streamlit run app.py
 
 📸 Screenshots
 
+<img width="317" alt="output2" src="https://github.com/user-attachments/assets/cc529b8c-e1a4-4598-98a9-7223d2437a85" />
+
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/39d71096-dd8f-4625-a630-2fc13cf84e6e" />
 
 🧠 Example Use Case
